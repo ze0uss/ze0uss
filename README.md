@@ -1,6 +1,6 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)](https://saurabhkin.netlify.app)
-<h1 align="center">Hi 👋, I'm Saurabh k</h1>
-<h3 align="center">A passionate programmer/Coder from India</h3>
+<h1 align="center">Hi 👋, I'm Saurabh k </h1>
+<h3 align="center">Currently pursuing my bachelors in Computer and Science Engineering</h3>
 
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/day-programmer-poster_1308-114374.jpg?w=740&t=st=1692517229~exp=1692517829~hmac=1671cf1ed62a21fd69aeb3ca89d8c88cb36ea31df2aa61c6deb2e07b2adec658">
 
